@@ -6,6 +6,15 @@
   "theme_color": "#eeffee",
   "background_color": "#eeffee",
   "display": "standalone",
+  "screenshots": [
+    {
+      "src": "Rectangle.png",
+      "sizes": "480x480",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Wonder Widgets"
+    }
+  ],
   "icons": [
     {
       "src": "favicon.ico",
